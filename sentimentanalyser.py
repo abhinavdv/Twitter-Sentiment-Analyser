@@ -1,6 +1,8 @@
 import tweepy
 from textblob import TextBlob
 
+# consumer_key, consumer_secret are different for different individuals
+
 consumer_key = 'write your here'
 consumer_secret = 'write your here'
 
