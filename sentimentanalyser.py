@@ -3,11 +3,11 @@ from textblob import TextBlob
 
 # consumer_key, consumer_secret are different for different individuals
 
-consumer_key = 'write your here'
-consumer_secret = 'write your here'
+consumer_key = 'write yours here'
+consumer_secret = 'write yours here'
 
-access_token = 'write your here'
-access_token_secret = 'write your here'
+access_token = 'write yours here'
+access_token_secret = 'write yours here'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 
